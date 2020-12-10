@@ -1,0 +1,24 @@
+.percent__line{
+    color: black;
+    height: 6px;
+    width: 100px;
+    background-color: skyblue;
+  }
+  .percent__line2{
+    color: black;
+    height: 6px;
+    width: 241px;
+    background-color: skyblue;
+  }
+  .percent__line3{
+    color: black;
+    height: 6px;
+    width: 120px;
+    background-color: skyblue;
+  }
+  .percent__line4{
+    color: black;
+    height: 6px;
+    width: 280px;
+    background-color: skyblue;
+  }

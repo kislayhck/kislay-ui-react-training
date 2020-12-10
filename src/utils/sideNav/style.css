@@ -1,0 +1,60 @@
+.sidenav{
+    height: 112vh;
+    padding-left: 20px;
+    background-color: black;
+    color: white;
+    width: 200px;
+    position: fixed;
+    z-index: 200;
+    right: -100%;
+    margin-top: -49px;
+    animation: slide-open .75s forwards;
+}
+
+.sidenav.close {
+    right: 0;
+    animation: slide-close 1.0s forwards;
+}
+
+@keyframes slide-open {
+    100% { right: 0}
+}
+
+@keyframes slide-close {
+    100% { right: -100%}
+}
+
+#toggle{
+    cursor: pointer;
+    color: black;
+    font-size: 28px;
+    background: transparent;
+    border: none;
+    margin-right: 3px;
+}
+.user__info{
+    cursor: progress;
+    height: 100px;
+    width: 100px;
+    padding: 78px;
+    border: 1px solid grey;
+    background-color: grey;
+    margin-top: 21px;
+}
+.user__name{
+    margin: -39px;
+}
+.change__button{
+    padding: 6px;
+    margin-top: 76px;
+    margin-left: -34px;
+}
+.toggle__setting{
+    margin-top: 11px;
+    padding: 3px;
+    margin-left: -77px;
+  }
+  .toggle__switch{
+    margin-left: -18px !important;
+    margin-top: -42px !important; 
+  }
