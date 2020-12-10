@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kislay-ui-react-training/static/css/main.71758067.chunk.css",
+    "main.js": "/kislay-ui-react-training/static/js/main.ddc5d9df.chunk.js",
+    "main.js.map": "/kislay-ui-react-training/static/js/main.ddc5d9df.chunk.js.map",
+    "runtime-main.js": "/kislay-ui-react-training/static/js/runtime-main.60627e83.js",
+    "runtime-main.js.map": "/kislay-ui-react-training/static/js/runtime-main.60627e83.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/kislay-ui-react-training/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.913da56f.chunk.js": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js",
+    "static/js/2.913da56f.chunk.js.map": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js.map",
+    "static/js/3.1a7b7e88.chunk.js": "/kislay-ui-react-training/static/js/3.1a7b7e88.chunk.js",
+    "static/js/3.1a7b7e88.chunk.js.map": "/kislay-ui-react-training/static/js/3.1a7b7e88.chunk.js.map",
+    "index.html": "/kislay-ui-react-training/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/kislay-ui-react-training/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.71758067.chunk.css.map": "/kislay-ui-react-training/static/css/main.71758067.chunk.css.map",
+    "static/js/2.913da56f.chunk.js.LICENSE.txt": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60627e83.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.913da56f.chunk.js",
+    "static/css/main.71758067.chunk.css",
+    "static/js/main.ddc5d9df.chunk.js"
+  ]
+}
