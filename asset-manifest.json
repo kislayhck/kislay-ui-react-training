@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/kislay-ui-react-training/static/css/main.71758067.chunk.css",
-    "main.js": "/kislay-ui-react-training/static/js/main.ddc5d9df.chunk.js",
-    "main.js.map": "/kislay-ui-react-training/static/js/main.ddc5d9df.chunk.js.map",
-    "runtime-main.js": "/kislay-ui-react-training/static/js/runtime-main.60627e83.js",
-    "runtime-main.js.map": "/kislay-ui-react-training/static/js/runtime-main.60627e83.js.map",
+    "main.css": "/kislay-ui-react-training/static/css/main.b1c48ae5.chunk.css",
+    "main.js": "/kislay-ui-react-training/static/js/main.c7f2694b.chunk.js",
+    "main.js.map": "/kislay-ui-react-training/static/js/main.c7f2694b.chunk.js.map",
+    "runtime-main.js": "/kislay-ui-react-training/static/js/runtime-main.fe3b54fa.js",
+    "runtime-main.js.map": "/kislay-ui-react-training/static/js/runtime-main.fe3b54fa.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/kislay-ui-react-training/static/css/2.20aa2d7b.chunk.css",
     "static/js/2.913da56f.chunk.js": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js",
     "static/js/2.913da56f.chunk.js.map": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js.map",
-    "static/js/3.1a7b7e88.chunk.js": "/kislay-ui-react-training/static/js/3.1a7b7e88.chunk.js",
-    "static/js/3.1a7b7e88.chunk.js.map": "/kislay-ui-react-training/static/js/3.1a7b7e88.chunk.js.map",
+    "static/js/3.fab27c84.chunk.js": "/kislay-ui-react-training/static/js/3.fab27c84.chunk.js",
+    "static/js/3.fab27c84.chunk.js.map": "/kislay-ui-react-training/static/js/3.fab27c84.chunk.js.map",
     "index.html": "/kislay-ui-react-training/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/kislay-ui-react-training/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.71758067.chunk.css.map": "/kislay-ui-react-training/static/css/main.71758067.chunk.css.map",
-    "static/js/2.913da56f.chunk.js.LICENSE.txt": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js.LICENSE.txt"
+    "static/css/main.b1c48ae5.chunk.css.map": "/kislay-ui-react-training/static/css/main.b1c48ae5.chunk.css.map",
+    "static/js/2.913da56f.chunk.js.LICENSE.txt": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js.LICENSE.txt",
+    "static/media/about.909a818a.jpeg": "/kislay-ui-react-training/static/media/about.909a818a.jpeg",
+    "static/media/kislay1.e625f3a8.jpg": "/kislay-ui-react-training/static/media/kislay1.e625f3a8.jpg",
+    "static/media/kislay2.a245eec6.jpg": "/kislay-ui-react-training/static/media/kislay2.a245eec6.jpg",
+    "static/media/kislay3.85ef4158.jpg": "/kislay-ui-react-training/static/media/kislay3.85ef4158.jpg",
+    "static/media/kislay4.6099e5db.jpg": "/kislay-ui-react-training/static/media/kislay4.6099e5db.jpg",
+    "static/media/profile.df693e61.jpg": "/kislay-ui-react-training/static/media/profile.df693e61.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.60627e83.js",
+    "static/js/runtime-main.fe3b54fa.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.913da56f.chunk.js",
-    "static/css/main.71758067.chunk.css",
-    "static/js/main.ddc5d9df.chunk.js"
+    "static/css/main.b1c48ae5.chunk.css",
+    "static/js/main.c7f2694b.chunk.js"
   ]
 }
