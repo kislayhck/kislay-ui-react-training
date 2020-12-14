@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kislay-ui-react-training/static/css/main.f40a3ba9.chunk.css",
-    "main.js": "/kislay-ui-react-training/static/js/main.a30687a4.chunk.js",
-    "main.js.map": "/kislay-ui-react-training/static/js/main.a30687a4.chunk.js.map",
+    "main.css": "/kislay-ui-react-training/static/css/main.aba2ce5d.chunk.css",
+    "main.js": "/kislay-ui-react-training/static/js/main.53e0c4be.chunk.js",
+    "main.js.map": "/kislay-ui-react-training/static/js/main.53e0c4be.chunk.js.map",
     "runtime-main.js": "/kislay-ui-react-training/static/js/runtime-main.9560f128.js",
     "runtime-main.js.map": "/kislay-ui-react-training/static/js/runtime-main.9560f128.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/kislay-ui-react-training/static/css/2.20aa2d7b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9b6a5ffb.chunk.js.map": "/kislay-ui-react-training/static/js/3.9b6a5ffb.chunk.js.map",
     "index.html": "/kislay-ui-react-training/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/kislay-ui-react-training/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.f40a3ba9.chunk.css.map": "/kislay-ui-react-training/static/css/main.f40a3ba9.chunk.css.map",
+    "static/css/main.aba2ce5d.chunk.css.map": "/kislay-ui-react-training/static/css/main.aba2ce5d.chunk.css.map",
     "static/js/2.913da56f.chunk.js.LICENSE.txt": "/kislay-ui-react-training/static/js/2.913da56f.chunk.js.LICENSE.txt",
     "static/media/about.909a818a.jpeg": "/kislay-ui-react-training/static/media/about.909a818a.jpeg",
     "static/media/english.734df133.jpg": "/kislay-ui-react-training/static/media/english.734df133.jpg",
@@ -20,13 +20,14 @@
     "static/media/kislay2.a245eec6.jpg": "/kislay-ui-react-training/static/media/kislay2.a245eec6.jpg",
     "static/media/kislay3.85ef4158.jpg": "/kislay-ui-react-training/static/media/kislay3.85ef4158.jpg",
     "static/media/kislay4.6099e5db.jpg": "/kislay-ui-react-training/static/media/kislay4.6099e5db.jpg",
-    "static/media/profile.df693e61.jpg": "/kislay-ui-react-training/static/media/profile.df693e61.jpg"
+    "static/media/profile.df693e61.jpg": "/kislay-ui-react-training/static/media/profile.df693e61.jpg",
+    "static/media/treva.77298069.png": "/kislay-ui-react-training/static/media/treva.77298069.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9560f128.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.913da56f.chunk.js",
-    "static/css/main.f40a3ba9.chunk.css",
-    "static/js/main.a30687a4.chunk.js"
+    "static/css/main.aba2ce5d.chunk.css",
+    "static/js/main.53e0c4be.chunk.js"
   ]
 }
